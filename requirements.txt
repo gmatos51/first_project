@@ -29,8 +29,8 @@ memoized-property
 termcolor
 
 # colleagues
-pip install git+https://github.com/vld-s/vld_project
-pip install git+https://github.com/cobergmann/project_x
-pip install git+https://github.com/fernandonjardim/fernandonspackage
-pip install git+https://github.com/ManonLaffly/second_project
-pip install git+https://github.com/Marchigginsberlin/marcspackage
+vld_project
+project_x
+fernandonspackage
+second_project
+marcspackage
