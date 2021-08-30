@@ -29,8 +29,8 @@ memoized-property
 termcolor
 
 # colleagues
-vld_project
-project_x
-fernandonspackage
-second_project
-marcspackage
+#vld_project
+#project_x
+#fernandonspackage
+#second_project
+#marcspackage
